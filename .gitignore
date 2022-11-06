@@ -54,9 +54,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-
-
 # next.js build output
 .next
 
@@ -67,3 +64,7 @@ dist/
 
 # Application .gitignore
 .env
+
+# OS
+*.DS_Store
+.DS_Store
